@@ -1,4 +1,4 @@
-Ensemble of ViT and EfficientNet for Image Classification
+#Ensemble of ViT and EfficientNet for Image Classification
 
 ## Overview
 This project involves the development of an image classification model using an ensemble of Vision Transformer (ViT) and EfficientNet. The model was trained on a limited dataset of 1000 images, with data augmentations applied to expand the dataset. The project utilized Sharpness Aware Minimization (SAM) for model generalization and Stochastic Gradient Descent for optimization. The model's performance was evaluated using accuracy and loss metrics. The project also explored the use of a weighted average ensemble method to further increase accuracy.
